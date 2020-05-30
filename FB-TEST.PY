@@ -1,7 +1,7 @@
 #!usr
-# -*- coding: UTF-8 -*-
-# Mod by: MR.K7C8NG
-# team: life of programmer
+# -*- coding: XP-*-
+# Mod by: XP 2000
+# team: Sogili
 
 
 import os
@@ -37,24 +37,14 @@ def banner():
     os.system('clear')
     print " "
     runntxt(GL+"              Assalamu'@laikum. ^_^")
-    runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       MR.K7C8NG")
-    runntxt(GL+"                   BODO AMAT CUK")
-    runntxt(GG+"     ..........     MANDI DULU SANA")
-    runntxt(Y+"    ............       DILARANG CO*I")
-    runntxt(GG+"           INGAT COK ")
+    runntxt(WW+"     ....       XP 2000")
+    runntxt(GL+"                   CUKI")
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
-    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
-    print GL+"  |---------------------------------------------|"
-    print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
-    print GL+"  |---------------------------------------------|"
-    print GG+"  √=============================================√"
+    print WW+"  |            MOD BY: XP 2000            |"
+    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |" √=============================================√"
     print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
     print GG+"  √=============================================√"
 
